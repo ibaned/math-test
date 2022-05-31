@@ -21,3 +21,5 @@ $$ \partial P = \sum_k \phi_k \partial P_k $$
 $$ (\partial P/\partial \rho)\partial \rho = \sum_k \phi_k (\partial P_k/\partial \rho_k)\partial \rho_k $$
 
 $$ (\partial P/\partial \rho)(\rho (V / \partial V)) = \sum_k \phi_k (\partial P_k/\partial \rho_k)(\rho_k (V / \partial V)) $$
+
+$$ (\partial P/\partial \rho)\rho = \sum_k \phi_k (\partial P_k/\partial \rho_k)\rho_k $$
