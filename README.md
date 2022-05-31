@@ -16,4 +16,6 @@ $$ \partial \rho = \rho (V / \partial V) $$
 
 $$ \partial \rho_k = \rho_k (V / \partial V) $$
 
-$$ \partial p = \sum_k \partial p_k $$
+$$ \partial P = \sum_k \partial P_k $$
+
+$$ (\partial P/\partial \rho)\partial \rho = \sum_k (\partial P_k/\partial \rho_k)\partial \rho_k $$
