@@ -6,6 +6,8 @@ $$ \partial \rho = \sum_k (\partial \rho_k) \phi_k $$
 
 $$ \rho_k = m_k / V_k $$
 
+$$ \partial \rho_k = m_k / (\partial V_k) $$
+
 $$ V = \sum_k V_k \phi_k $$
 
 $$ V_k = V \phi_k $$
