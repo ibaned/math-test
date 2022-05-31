@@ -15,3 +15,5 @@ $$ \partial \rho_k = (\rho_k V) / (\partial V) $$
 $$ \partial \rho = \rho (V / \partial V) $$
 
 $$ \partial \rho_k = \rho_k (V / \partial V) $$
+
+$$ \partial p = \sum_k \partial p_k $$
