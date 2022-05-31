@@ -11,3 +11,7 @@ $$ \partial \rho = (\rho V) / (\partial V) $$
 $$ \partial \rho_k = (\rho_k \phi_k V) / (\phi_k \partial V) $$
 
 $$ \partial \rho_k = (\rho_k V) / (\partial V) $$
+
+$$ \partial \rho = \rho (V / \partial V) $$
+
+$$ \partial \rho_k = \rho_k (V / \partial V) $$
